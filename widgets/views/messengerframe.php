@@ -8,7 +8,7 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
   <?php
-  	if (!Setting::Get('client', 'messenger')) {
+  	if (!Setting::Get('messenger')) {
  ?>
  	Click on "Start App" to run the Messenger, please.
  <?php
