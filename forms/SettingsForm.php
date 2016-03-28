@@ -15,24 +15,15 @@ class SettingsForm extends \yii\base\Model
         return [
             [
                 [
-                    'slot',
                     'sort'
                 ],
                 'safe'
             ],
             [
                 [
-                    'slot',
                     'sort'
                 ],
                 'required'
-            ],
-            [
-                [
-                    'slot'
-                ],
-                'string',
-                'max' => 255
             ],
             [
                 [
@@ -48,7 +39,6 @@ class SettingsForm extends \yii\base\Model
     public function attributeLabels()
     {
         return [
-            'slot' => Yii::t('MessengerModule.base', 'slot'),
             'sort' => Yii::t('MessengerModule.base', 'sort')
         ];
     }

@@ -1,6 +1,7 @@
 <?php
 return [
     'Messenger' => 'Messenger',
-    'slot' => 'Setup Messenger Position',
+    'messenger' => 'Messenger',
+    'sort' => 'Setup Messenger Position',
     'save' => 'Save',
 ];
