@@ -20,14 +20,10 @@ Widget works on spaces, dashboard and profile.
     - Your users can see content on a site or app dynamically change together.
 
 
-###Screenshot
-
-Here You can see a screenshot.
-
 <a href="http://palareas.de/">
-    <img src="https://github.com/WebCrew/HumHub-Messenger/blob/master/walkthrough-images-invite.png?raw=true" alt="Messenger Screenshot"
-         title="HumHub Messenger Module" align="right" />
+    <img src="https://github.com/WebCrew/HumHub-Messenger/blob/master/walkthrough-images-invite.png?raw=true" alt="Messenger Screenshot" title="HumHub Messenger Module" align="center" />
 </a> 
+
 
     
 ## Installation
