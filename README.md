@@ -1,5 +1,7 @@
 # [HumHub](https://github.com/humhub/humhub) Messenger App
 
+**NOTE: This Module is not finish, some issues has to be fixed first.**
+
 This module is for HumHub Version 0.20+ (Yii 2) and greater and cannot be used with HumHub Version 0.1x (Yii 1.1)
 
 
