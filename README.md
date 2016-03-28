@@ -18,7 +18,17 @@ Widget works on spaces, dashboard and profile.
     - Your users can chat with each other with familiar instant messaging.
     - Your users can follow each other to different pages on the same domain.
     - Your users can see content on a site or app dynamically change together.
-    
+
+
+###Screenshot
+
+Here You can see a screenshot.
+
+<a href="http://palareas.de/">
+    <img src="https://github.com/WebCrew/HumHub-WeChat/blob/master/wechat.jpg?raw=true" alt="WeChat Screenshot"
+         title="HumHub WeChat Module" align="right" />
+</a> 
+
     
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
