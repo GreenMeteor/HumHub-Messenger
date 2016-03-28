@@ -4,7 +4,7 @@ use humhub\models\Setting;
 ?>
 <div class="panel">
   <div class="panel-heading">
-    <?=Yii::t('MessengerModule.base', '<strong>Messenger</strong> App'); ?>
+    <?=Yii::t('MessengerModule.base', '<strong>Messenger</strong>'); ?>
   </div>
   <div class="panel-body">
   <?php
