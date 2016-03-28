@@ -4,6 +4,14 @@ This module is for HumHub Version 0.20+ (Yii 2) and greater and cannot be used w
 
 Your users can send a unique Messenger url (TogetherJS url) to a friend. When the friend opens the link, each user sees the same page and can interact with it together in real time.
 
+##Cool Features
+
+    - use audio and video chat
+    - Your users see each other's mouse cursors and clicks.
+    - Messenger enables your users to see each other in real time.
+    - Your users can chat with each other with familiar instant messaging.
+    - Your users can follow each other to different pages on the same domain.
+    - Your users can see content on a site or app dynamically change together.
 
 ## Description
 
