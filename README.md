@@ -25,8 +25,8 @@ Widget works on spaces, dashboard and profile.
 Here You can see a screenshot.
 
 <a href="http://palareas.de/">
-    <img src="https://github.com/WebCrew/HumHub-WeChat/blob/master/wechat.jpg?raw=true" alt="WeChat Screenshot"
-         title="HumHub WeChat Module" align="right" />
+    <img src="https://github.com/WebCrew/HumHub-Messenger/blob/master/walkthrough-images-invite.png?raw=true" alt="Messenger Screenshot"
+         title="HumHub Messenger Module" align="right" />
 </a> 
 
     
