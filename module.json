@@ -1,6 +1,6 @@
 {
     "id": "messenger",
-    "name": "Messenger App",
+    "name": "Messenger",
     "description": "Adds a TogetherJS Messenger App to HumHub`s Frontend.",
     "keywords": ["Messenger", "TogetherJS", "App",],
     "version": "0.1.0",
