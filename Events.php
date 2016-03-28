@@ -17,7 +17,7 @@ class Events extends \yii\base\Object
             'group' => 'settings',
             'icon' => '<i class="fa fa-weixin"></i>',
             'isActive' => Yii::$app->controller->module && Yii::$app->controller->module->id == 'messenger' && Yii::$app->controller->id == 'admin',
-            'sortOrder' => 300
+            'sortOrder' => 800
         ]);
     }
 
