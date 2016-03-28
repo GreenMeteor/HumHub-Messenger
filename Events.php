@@ -3,7 +3,7 @@ namespace humhub\modules\messenger;
 
 use Yii;
 use yii\helpers\Url;
-use humhub\modules\messenger\widgets\AdFrame;
+use humhub\modules\messenger\widgets\MessengerFrame;
 use humhub\models\Setting;
 
 class Events extends \yii\base\Object
