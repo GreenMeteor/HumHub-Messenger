@@ -9,7 +9,7 @@ use humhub\modules\messenger\controllers\AdminController;
 	<div class="panel-body">
 		<?php $form = CActiveForm::begin(['id' => 'messenger-settings-form']); ?>
 			<?=$form->errorSummary($model); ?>
-			<p class="help-block"><?=Yii::t('MessengerModule.base', 'eg:  "123456"'); ?></p>
+			<p class="help-block"><?=Yii::t('MessengerModule.base', 'eg:  "999999"'); ?></p>
 			<div class="form-group">
 				<?=$form->labelEx($model, 'sort'); ?>
 				<?=$form->textField($model, 'sort', ['class' => 'form-control', 'readonly' => Setting::IsFixed('sort', 'messenger')]); ?>
