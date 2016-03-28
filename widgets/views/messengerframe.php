@@ -15,7 +15,7 @@ use humhub\models\Setting;
 	} else {
 ?>
 <script src="https://togetherjs.com/togetherjs-min.js"></script>
-    <button onclick="TogetherJS(this); return false;">Start App</button>
+<button onclick="TogetherJS(this); return false;">Start App</button>
 <?php
 	}
 ?>
