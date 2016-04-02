@@ -2,8 +2,10 @@
 namespace humhub\modules\messenger\controllers;
 
 use Yii;
-use humhub\models\Setting;
 use yii\helpers\Url;
+use yii\web\HttpException;
+use humhub\components\Controller;
+use humhub\models\Setting;
 
 class AdminController extends \humhub\modules\admin\components\Controller
 {
