@@ -21,3 +21,5 @@ use humhub\modules\messenger\controllers\AdminController;
 		<?php CActiveForm::end(); ?>
 	</div>
 </div>
+
+?>
