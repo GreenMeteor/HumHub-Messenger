@@ -1,3 +1,5 @@
+![](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/quality-score.png) ![](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/build.png)
+
 # [HumHub](https://github.com/humhub/humhub) Messenger App
 
 **NOTE: This Module is not finish, some issues has to be fixed first.**
