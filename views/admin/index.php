@@ -1,6 +1,6 @@
 <?php
-use yii\helper\URL
-use yii\helpers\Html
+use yii\helper\URL;
+use yii\helpers\Html;
 use yii\helpers\CActiveForm;
 use humhub\models\Setting;
 use humhub\modules\messenger\controllers\AdminController;
@@ -21,5 +21,3 @@ use humhub\modules\messenger\controllers\AdminController;
 		<?php CActiveForm::end(); ?>
 	</div>
 </div>
-
-?>
