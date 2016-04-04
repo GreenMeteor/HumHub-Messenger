@@ -1,5 +1,5 @@
 <?php
-use yii\helper\URL;
+use yii\helper\Url;
 use yii\helpers\Html;
 use yii\helpers\CActiveForm;
 use humhub\models\Setting;
