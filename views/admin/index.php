@@ -16,7 +16,7 @@ use humhub\modules\messenger\controllers\AdminController;
 				<?=$form->textField($model, 'sort', ['class' => 'form-control', 'readonly' => Setting::IsFixed('sort', 'messenger')]); ?>
 			</div>
 			<p class="help-block"><?php echo Yii::t('MessengerModule.base', 'Widget Positioning') ?></p>
-			<?php echo Html::(Yii::t('submitButton(Yii:t('MessengerModule.base', 'Save'), ['class' => 'btn-primary']); ?>
+			<?php echo Html::submitButton(Yii:t('MessengerModule.base', 'Save'), ['class' => 'btn-primary']); ?>
 			<?=\humhub\widgets\DataSaved::widget(); ?>
 		<?php CActiveForm::end(); ?>
 	</div>
