@@ -1,4 +1,6 @@
-![](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/quality-score.png) ![](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/build.png)
+ [![Scrutinizer CI](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/quality-score.png?b=dev)](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/)
+[![Scrutinizer CI](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/badges/build.png?b=dev)](https://scrutinizer-ci.com/g/Felli/HumHub-Messenger/)
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 
 # [HumHub](https://github.com/humhub/humhub) Messenger App
 
