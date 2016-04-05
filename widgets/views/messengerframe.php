@@ -1,6 +1,5 @@
 <?php
 use yii\helpers\Url;
-use yii\web\HttpException;
 use humhub\models\Setting;
 ?>
 <div class="panel">
