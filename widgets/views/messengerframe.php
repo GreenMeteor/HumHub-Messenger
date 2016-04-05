@@ -8,8 +8,9 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
   
-<?php $this->registerJsFile( $this->getUrl().'/js/togetherjs.js', ['position'=>\yii\web\View::Sidebar]); ?>
-<?php $this->registerJsFile( $this->getUrl().'/js/togetherjs-min.js', ['position'=>\yii\web\View::Sidebar]); ?>
+  // Need to find away of fixing this part
+<script src="https://togetherjs.com/togetherjs.js"></script>
+<script src="https://togetherjs.com/togetherjs-min.js"></script>
 <button onclick="TogetherJS(this); return false;">Chat</button>
 
   </div>
