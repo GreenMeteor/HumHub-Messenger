@@ -1,5 +1,6 @@
 <?php
 use yii\helpers\Url;
+use yii\web\HttpException;
 use humhub\models\Setting;
 ?>
 <div class="panel">
@@ -8,7 +9,8 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
   
-<script src="https://togetherjs.com/togetherjs-min.js"></script>
+<?php $this->registerJsFile( $this->getBaseUrl().'/js/togetherjs.js', ['position'=>\yii\web\View::Sidebar]); ?>
+<?php $this->registerJsFile( $this->getBaseUrl().'/js/togetherjs-min.js', ['position'=>\yii\web\View::Sidebar]); ?>
 <button onclick="TogetherJS(this); return false;">Chat</button>
 
   </div>
