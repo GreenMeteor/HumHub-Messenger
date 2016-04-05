@@ -28,7 +28,7 @@ class AdminController extends \humhub\modules\admin\components\Controller
                 Setting::Set('sort', $form->sort, 'messenger');
                 
                 Yii::$app->session->setFlash('data-saved', Yii::t('MessengerModule.base', 'Saved'));
-                // $this->redirect(Url::toRoute('index'));
+                 $this->redirect(Url::toRoute('/'));
             }
         } else {
             $form->sort = Setting::Get('sort', 'messenger');
