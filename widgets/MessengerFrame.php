@@ -10,7 +10,7 @@ class MessengerFrame extends Widget
 
     public function run()
     {
-        return $this->render(' messengerframe', []);
+        return $this->render( 'messengerframe', []);
     }
 }
 
