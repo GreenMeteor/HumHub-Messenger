@@ -7,7 +7,11 @@
 
 **NOTE: This Module is not finish, some issues has to be fixed first.**
 
+**NOTE 2: This Module will not work on any version below 0.20 or above 1.0 do not use it!**
+
 **ACHTUNG: Diese Modul ist noch nicht 100% fertig und sollte noch nicht genutzt werden.**
+
+**ACHTUNG 2: Dieses Modul funktioniert nicht auf einer Version unter 0,20 oder über 1,0 nicht verwenden!**
 
 This module is for HumHub Version 0.20+ (Yii 2) and greater and cannot be used with HumHub Version 0.1x (Yii 1.1)
 
