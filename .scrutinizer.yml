@@ -12,3 +12,11 @@ checks:
     ruby:
         code_rating: true
         duplicate_code: true
+    build:
+    tests:
+        override:
+            -
+                command: 'phpunit --coverage-clover=some-file'
+                coverage:
+                    file: 'some-file'
+                    format: 'clover'
