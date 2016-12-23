@@ -12,8 +12,8 @@ checks:
     ruby:
         code_rating: true
         duplicate_code: true
-        build:
-    tests:
+   
+   build:
         override:
             -
                 command: 'bundle exec rspec spec'
