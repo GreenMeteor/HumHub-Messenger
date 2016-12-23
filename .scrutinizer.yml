@@ -12,13 +12,11 @@ checks:
     ruby:
         code_rating: true
         duplicate_code: true
-   
-   build:
+    build:
+    tests:
         override:
             -
-                command: 'bundle exec rspec spec'
-                environment:
-                    'SCRUTINIZER_CC_FILE': 'my-coverage'
+                command: 'phpunit --coverage-clover=some-file'
                 coverage:
-                    file: 'my-coverage'
-                    format: 'rb-cc'
+                    file: 'some-file'
+                    format: 'clover'
