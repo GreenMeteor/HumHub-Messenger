@@ -30,7 +30,7 @@ Widget works on spaces, dashboard and profile.
 
 
 <a href="http://palareas.de/">
-    <img src="https://github.com/WebCrew/HumHub-Messenger/blob/master/walkthrough-images-invite.png?raw=true" alt="Messenger Screenshot" title="HumHub Messenger Module" align="center" />
+    <img src="https://raw.githubusercontent.com/GreenVolume/HumHub-Messenger/master/walkthrough-images-invite.png" alt="Messenger Screenshot" title="HumHub Messenger Module" align="center" />
 </a> 
 
 
