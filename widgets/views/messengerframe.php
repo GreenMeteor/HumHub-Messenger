@@ -8,6 +8,8 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
   
+  // Need to find away of fixing this part
+<script src="https://togetherjs.com/togetherjs.js"></script>
 <script src="https://togetherjs.com/togetherjs-min.js"></script>
 <button onclick="TogetherJS(this); return false;">Chat</button>
 
